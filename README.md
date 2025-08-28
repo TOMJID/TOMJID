@@ -4,19 +4,10 @@
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 
 <div align="center">
-
-Skills: HTML / CSS / JavaScript / BOOTSTRAP / Tailwind 
-
+Skills: HTML / CSS / JavaScript 
 </div>
 
-- 🌱 I’m currently learning 
-
 - 👨‍💻 All of my projects are available at [https://github.com/TOMJID](https://github.com/TOMJID)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, Tailwind**
-
-- 📫 How to reach me **@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,19 +22,12 @@ Skills: HTML / CSS / JavaScript / BOOTSTRAP / Tailwind
 ## Use To Code
 <div align="center">
   
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 
 </div>
 <br/>
-
-## Best Repo -
-
 
 <p align="left">
   <a href="https://github.com/TOMJID?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
