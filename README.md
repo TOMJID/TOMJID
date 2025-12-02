@@ -1,56 +1,66 @@
-<h1 align="center">Hi 👋, I'm Tomjid Huda</h1>
-<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
+🌙 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚,
 
-<div align="center">
-Skills: HTML / CSS / JavaScript 
-</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/TOMJID](https://github.com/TOMJID)
+𝖨’𝗆 𝖳𝗈𝗆𝗃𝗂𝖽, j𝗎𝗌𝗍 𝖺 𝗉𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝗐𝗂𝗍𝗁 𝖺 𝗅𝗈𝗏𝖾 𝗍𝗈 𝖻𝗎𝗂𝗅𝖽 𝗌𝗍𝗎𝗇𝗇𝗂𝗇𝗀, 𝗉𝗂𝗑𝖾𝗅-𝗉𝖾𝗋𝖿𝖾𝖼𝗍, 𝗂𝗇𝗍𝖾𝗋𝖺𝖼𝗍𝗂𝗏𝖾 𝗐𝖾𝖻𝗌𝗂𝗍𝖾𝗌.
+𝖨 𝗆𝖺𝗒 𝗇𝗈𝗍 𝖻𝖾 𝗌𝗉𝖾𝖼𝗂𝖺𝗅 — 𝖻𝗎𝗍 𝖨 𝗐𝗈𝗋𝗄 𝗁𝖺𝗋𝖽, 𝗅𝗂k𝖾 𝖺𝗇𝗒 𝗀𝗈𝗈𝖽 𝖽𝖾𝗏! 😄
 
-<h3 align="left">Connect with me:</h3>
+🧰 𝙈𝙮 𝙎𝙩𝙖𝙘𝙠
 
-<p align="center">
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TOMJID" height="30" width="40" /></a>
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="TOMJID" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-</p>
+--
+🎨 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱
 
-## Use To Code
-<div align="center">
-  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+𝖱𝖾𝖺𝖼𝗍                          
+𝖭𝖾𝗑𝗍.𝗃𝗌                        
+𝖳𝖺𝗂𝗅𝗐𝗂𝗇𝖽                          
+𝖲𝖺𝗌𝗌                             
+𝖡𝗈𝗈𝗍𝗌𝗍𝗋𝖺𝗉                                              
 
-</div>
-<br/>
+--
+⚙️ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱
 
-<p align="left">
-  <a href="https://github.com/TOMJID?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+𝖭𝗈𝖽𝖾.𝗃𝗌                                        
+𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌                                    
+𝖦𝗈 (basic)                           
 
-<br/>
-<hr/>
-<br/>
+--
+🛢️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲
 
-## Github Stats -
+𝖬𝗈𝗇𝗀𝗈𝖣𝖡                       
+𝖯𝗈𝗌𝗍𝗀𝗋𝖾𝖲𝖰𝖫                         
 
-<p align="center">
-  <a href="https://github.com/TOMJID">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TOMJID&theme=radical" alt="Harun's GitHub Contribution"/>
-  </a>
-</p>
+--
+🧩 𝗢𝗥𝗠
 
-<a> 
-    <a href="https://github.com/TOMJID"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TOMJID&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/TOMJID"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TOMJID&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+𝖯𝗋𝗂𝗌𝗆𝖺                
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TOMJID&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+--
+🏗️ 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
-<br/>
+𝖣𝗈𝖼𝗄𝖾𝗋                  
+𝖭𝖦𝖨𝖭𝖷                   
+𝖦𝗂𝗍𝖧𝗎𝖻 𝖠𝖼𝗍𝗂𝗈𝗇𝗌 (CI/CD)                     
 
+--
+🧪 𝗧𝗲𝘀𝘁𝗶𝗻𝗴
+
+𝖩𝖾𝗌𝗍                    
+𝖲𝗎𝗉𝖾𝗋𝗍𝖾𝗌𝗍               
+𝖱𝖾𝖺𝖼𝗍 𝖳𝖾𝗌𝗍𝗂𝗇𝗀          
+
+--
+🔥 𝗖𝗼𝗿𝗲 𝗦𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀
+
+𝖳𝗒𝗉𝖾𝖲𝖼𝗋𝗂𝗉𝗍                
+𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍              
+𝖲𝖰𝖫                
+𝖣𝖺𝗍𝖺 𝖲𝗍𝗋𝗎𝖼𝗍𝗎𝗋𝖾𝗌 & 𝖠𝗅𝗀𝗈𝗋𝗂𝗍𝗁𝗆𝗌              
+𝖮𝖮𝖯                 
+
+---
+🎭 𝙁𝙪𝙣 𝙁𝙖𝙘𝙩𝙨 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
+
+
+𝖤𝗏𝖾𝗋𝗒 𝖽𝖺𝗒 𝗂𝗌 𝖺 𝖻𝖺𝗍𝗍𝗅𝖾, 𝖻𝗎𝗍 𝖨 𝗄𝖾𝖾𝗉 𝗉𝗎𝗌𝗁𝗂𝗇𝗀
+
+𝖧𝗈𝖻𝖻𝗂𝖾𝗌: coding, learning, anime/manga/manhwa, gaming, travel 🌏
 
