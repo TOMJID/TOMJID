@@ -1,5 +1,3 @@
-![I am TOMJID](https://github.com/TOMJID/TOMJID/blob/main/banner.jpeg)
-
 <h1 align="center">Hi 👋, I'm Tomjid Huda</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 
